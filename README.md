@@ -1,3 +1,3 @@
 # Streamlit_Frontend
 
-# Frontend implementation using Streamlight python package
+# Frontend implementation using Streamlit python package
